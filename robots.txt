@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-g9h5ew.hartawin.online/sitemap.xml
